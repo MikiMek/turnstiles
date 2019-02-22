@@ -1,5 +1,5 @@
-#ifndef SRC_TURNSTILE_H_
-#define SRC_TURNSTILE_H_
+#ifndef _TURNSTILE_H_
+#define _TURNSTILE_H_
 
 #include <type_traits>
 
@@ -24,4 +24,4 @@ public:
     void unlock();  // NOLINT
 };
 
-#endif  // SRC_TURNSTILE_H_
+#endif  // _TURNSTILE_H_
