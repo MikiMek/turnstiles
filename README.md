@@ -1,5 +1,5 @@
 # Turnstiles
-Concurrent programming project
+Concurrent programming project. Implementation of turnstiles from freebsd/solaris kernel.
 
 ## Motivation
 
